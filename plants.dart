@@ -1,6 +1,6 @@
 [
   {
-    "title": "< Recent additions - الاضافات الحديثة  >",
+    "title": "< الاضافات الحديثة  >",
     "content": "https://drive.google.com/drive/folders/1HI6ahRkW5i1ynGHe7JNX7TqXhjoNkdLv?usp=sharing",
     "showAd": true
   },
@@ -324,4 +324,5 @@
     "content": "https://sciencemenofiaedu-my.sharepoint.com/:f:/g/personal/mohamed_algrawany1701153_science_menofia_edu_eg/EuQovFrjOrJPlpT2zk6TPpEBenMSHP3L10FyQAHcmrEJjQ?e=PfphK8",
     "showAd": true
   }
+
 ]
